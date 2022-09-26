@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6282114680993@s.whatsapp.net"],
+  "ownerName": ["SanXd"],
+  "botName": "San Botz",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/c/SanExde",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/san.xd12_",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
